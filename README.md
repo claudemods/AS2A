@@ -8,7 +8,7 @@
 
 
 <div align="center">
-<strong>2 Scripts 1 Compiled c++ and 1 Compiled Python Both will support Img.xz And Squashfs</strong><br>
+<strong>2 Scripts 1 Compiled c++ and 1 Compiled Python Both Support Cloning Systems Into Img.xz And Squashfs</strong><br>
 
 
 
