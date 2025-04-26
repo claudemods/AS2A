@@ -3,7 +3,7 @@
   <img src="https://i.postimg.cc/JhMRf2RZ/claudemods-03-17-2025.gif">
 </p>
 
-<h1 align="center">claudemods system 2 archive (accu)</h1>
+<h1 align="center">claudemods system 2 archive (cs2a)</h1>
 
 
 
