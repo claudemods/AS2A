@@ -26,6 +26,7 @@
 # please execute script with sudo
 
 ![2025-04-26-064726_hyprshot](https://github.com/user-attachments/assets/2e78bc83-2720-46e5-9b31-8e36135ed66c)
-![Screenshot_archlinux_2025-05-10_19:50:36](https://github.com/user-attachments/assets/2fa24524-7bf0-462a-b04c-1172dc3266e4)
+![Screenshot_archlinux_2025-05-10_20:13:18](https://github.com/user-attachments/assets/4e620580-38b5-45d3-8302-ced6dca35b0d)
+
 
 
