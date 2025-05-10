@@ -23,7 +23,7 @@
     <img alt="Homepage" src="https://i.postimg.cc/Hs2vbbZ8/Deep-Seek-Homepage.png" style="height: 30px; width: auto;">
   </a>
 
-[![Version](https://img.shields.io/github/v/release/claudemods/CS2A?color=FFD700&label=Latest%20Release&style=for-the-badge)](https://github.com/claudemods/CS2A/releases/tag/v1)
+[![Version](https://img.shields.io/github/v/release/claudemods/CS2A?color=FFD700&label=Latest%20Release&style=for-the-badge)](https://github.com/claudemods/CS2A/releases/tag/v1-10-05-2025)
 
 # please execute script with sudo
 
