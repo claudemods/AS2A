@@ -15,6 +15,8 @@
 <div align="center">
  <strong>Sailing The Seven Seas like Penguin's Eggs Remastersys, Refracta, Systemback and father Knoppix! 🚢🌊</strong><br>
 
+ 
+ <strong>New Updates To Python Script Coming Soon For Now Arch .Img.xz And Squashfs Work</strong><br>
   
 <div align="center">
   <a href="https://www.deepseek.com/" target="_blank">
