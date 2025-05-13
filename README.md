@@ -8,7 +8,7 @@
 
 
 <div align="center">
-<strong>2 Scripts 1 Compiled c++ and 1 Compiled Python Both Support Cloning Systems Into Bootable Img And Squashfs</strong><br>
+<strong>2 Scripts 1 Compiled c++ and 1 Compiled Python Both Support Cloning Systems the use ext4 no seperate home or swap Into A Bootable Disk .Img And Squashfs</strong><br>
 
 
 
