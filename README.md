@@ -8,8 +8,8 @@
 
 
 <div align="center">
-<strong>2 Scripts 1 Compiled c++ and 1 Compiled Python Both Support Cloning Systems the use ext4 </strong><br>
-  <strong>2 no seperate home or swap Into A Bootable Disk .Img And Squashfs </strong><br>
+<strong>2 Scripts 1 Compiled c++ and 1 Compiled Python Both Support Cloning Systems that use ext4 </strong><br>
+  <strong>no seperate home or swap Into A Bootable Disk .Img And Squashfs </strong><br>
 
 
 
